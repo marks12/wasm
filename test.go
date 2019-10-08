@@ -46,7 +46,7 @@ func main() {
 
 	fmt.Println("Ticker stopped")
 
-	keepDoingSomething()
+	//keepDoingSomething()
 
 }
 
